@@ -4,7 +4,7 @@ CordovaCallNumberPlugin
 Call a number directly from your cordova application.
 
 ```
-cordova plugin add cordova-plugin-call-number
+cordova plugin add cordova-plugin-call-number-revan
 ```
 
 Use the plugin in your JS file:
