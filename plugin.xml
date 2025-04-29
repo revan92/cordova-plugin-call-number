@@ -2,13 +2,12 @@
 <plugin
   xmlns="http://apache.org/cordova/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
-  id="cordova-plugin-call-number"
-  version="1.0.1">
-
-  <description>Call Number from Cordova Application</description>
+  id="cordova-plugin-call-number-revan"
+  version="5.19.1-revan">
 
   <name>Cordova Call Number Plugin</name>
-  <author>Carlos Ferreyra</author>
+  <author>Revan / Fork of Carlos Ferreyra</author>
+  <description>Forked and patched version to support iOS 10+ openURL migration</description>
 
   <license>Apache 2.0</license>
   <keywords>cordova,call,dialer,phonegap</keywords>

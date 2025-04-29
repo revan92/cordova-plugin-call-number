@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-call-number",
-  "version": "1.0.1",
+  "name": "cordova-plugin-call-number-revan",
+  "version": "5.19.1-revan",
   "description": "Call Number from Cordova Application",
   "cordova": {
-    "id": "cordova-plugin-call-number",
+    "id": "cordova-plugin-call-number-revan",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ihadeed/cordova-plugin-call-number"
+    "url": "https://github.com/revan92/cordova-plugin-call-number"
   },
   "keywords": [
     "cordova",
@@ -25,7 +25,7 @@
   "author": "",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/ihadeed/cordova-plugin-call-number/issues"
+    "url": "https://github.com/revan92/cordova-plugin-call-number/issues"
   },
-  "homepage": "https://github.com/ihadeed/cordova-plugin-call-number#readme"
+  "homepage": "https://github.com/revan92/cordova-plugin-call-number#readme"
 }
